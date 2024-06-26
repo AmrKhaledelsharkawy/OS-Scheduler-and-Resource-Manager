@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/amrk1/OneDrive/Desktop/MS_02_Team_36_Code.zip/build",
+  "command": "C:\\VSARM\\mingw\\mingw32\\bin\\gcc.exe   -g -o CMakeFiles\\OSms2.dir\\main.c.obj -c C:\\Users\\amrk1\\OneDrive\\Desktop\\MS_02_Team_36_Code.zip\\main.c",
+  "file": "C:/Users/amrk1/OneDrive/Desktop/MS_02_Team_36_Code.zip/main.c",
+  "output": "CMakeFiles/OSms2.dir/main.c.obj"
+}
+]
